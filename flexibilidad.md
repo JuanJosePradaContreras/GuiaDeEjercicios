@@ -11,3 +11,9 @@ Los ejercicios de flexibilidad son actividades que ayudan a mejorar el rango de 
     Alivia tensiones musculares.
     Mejora la postura y la alineación corporal.
     Aumenta la circulación sanguínea en los músculos.
+
+# Instrucciones
+
+    Comienza con un calentamiento suave de 5-10 minutos (puedes hacer caminar o ejercicios de movilidad para preparar el cuerpo).
+    Realiza los estiramientos (de 15 a 30 segundos por cada ejercicio) en diferentes grupos musculares, asegurándote de no forzar el estiramiento.
+    Termina con respiraciones profundas para relajarte y permitir que el cuerpo recupere su estado normal.
