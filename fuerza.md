@@ -16,3 +16,10 @@ Los ejercicios de fuerza son actividades que trabajan los músculos y mejoran la
     Comienza con un calentamiento de 5-10 minutos (puedes hacer estiramientos dinámicos o ejercicios de movilidad articular).
     Realiza la actividad (levantamiento de pesas, ejercicios con el peso corporal, máquinas de gimnasio) durante 30-45 minutos, enfocándote en diferentes grupos musculares.
     Termina con un enfriamiento y estiramientos para prevenir lesiones y mejorar la flexibilidad.
+
+# Consejos
+
+    Mantén una postura adecuada para evitar lesiones.
+    Aumenta gradualmente el peso o la resistencia a medida que ganas fuerza.
+    Descansa entre series (30-90 segundos según el objetivo de tu entrenamiento).
+    No olvides la hidratación adecuada durante el entrenamiento.
