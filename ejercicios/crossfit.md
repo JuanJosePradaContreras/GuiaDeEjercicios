@@ -23,3 +23,11 @@ El CrossFit es un entrenamiento de alta intensidad que combina ejercicios de fue
         Kettlebell swings (15-20 repeticiones)
     Realiza estas combinaciones en intervalos o rondas, dependiendo del formato del WOD.
     Termina con un enfriamiento de 5-10 minutos, que incluya estiramientos y respiraciones profundas para relajar los músculos trabajados.
+
+## Consejos
+
+    Prioriza la técnica adecuada en cada ejercicio para evitar lesiones. Si eres principiante, comienza con pesos ligeros y aumenta la carga gradualmente.
+    Realiza los ejercicios a la mayor intensidad posible, pero sin comprometer la forma.
+    Escucha a tu cuerpo y haz pausas si es necesario. El CrossFit es desafiante, y el descanso adecuado es fundamental.
+    Mantén una hidratación constante durante el entrenamiento.
+    Si estás entrenando con pesas, asegúrate de usar el equipo adecuado (guantes, zapatillas de entrenamiento, cinturón de levantamiento si es necesario).
