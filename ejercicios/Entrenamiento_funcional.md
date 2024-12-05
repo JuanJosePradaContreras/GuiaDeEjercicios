@@ -18,3 +18,10 @@ El entrenamiento funcional se enfoca en mejorar la capacidad del cuerpo para rea
     Realiza una serie de ejercicios funcionales que involucren varios grupos musculares al mismo tiempo. Ejemplos incluyen sentadillas, flexiones, saltos, burpees, levantamiento de objetos, y trabajo de core.
     Haz series de 30-45 segundos por ejercicio, descansando entre 15-30 segundos, y realiza 3-4 rondas de cada circuito.
     Termina con un enfriamiento y estiramientos para relajar los músculos.
+
+## Consejos
+
+    Mantén una postura adecuada durante los ejercicios para evitar lesiones.
+    Realiza los movimientos de forma controlada y sin prisa.
+    Escoge un nivel de dificultad que te permita realizar el ejercicio correctamente, pero que desafíe tu cuerpo.
+    Mantén una respiración fluida durante los ejercicios.
