@@ -21,3 +21,10 @@ El boxeo es un deporte que combina ejercicios de resistencia cardiovascular, fue
         Entrenamiento de agilidad: Movimientos rápidos de pies y trabajo de esquiva con ejercicios como saltos laterales o desplazamientos.
     Termina con un enfriamiento de 5-10 minutos, que incluya estiramientos estáticos y respiraciones profundas para relajar los músculos.
 
+## Consejos
+
+    Mantén una postura adecuada: siempre dobla ligeramente las rodillas y mantén los puños cerca de tu rostro.
+    Coordina tu respiración con los golpes: exhala al lanzar el puño y respira profundamente entre combinaciones.
+    Realiza el entrenamiento a un ritmo adecuado para tu nivel, aumentando la intensidad gradualmente.
+    Usa guantes de boxeo y vendajes para proteger tus manos y muñecas.
+    Si trabajas con un saco pesado, asegúrate de tener un buen soporte para evitar lesiones en las muñecas y hombros.
